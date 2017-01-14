@@ -101,13 +101,10 @@
 		F45000FA1E2ACA1500F444C1 /* appleAirship */ = {
 			isa = PBXGroup;
 			children = (
-				F45000FE1E2ACA1500F444C1 /* AppDelegate.h */,
-				F45000FF1E2ACA1500F444C1 /* AppDelegate.m */,
 				F45001011E2ACA1500F444C1 /* ViewController.h */,
 				F45001021E2ACA1500F444C1 /* ViewController.m */,
 				F45001041E2ACA1500F444C1 /* Main.storyboard */,
 				F45001071E2ACA1500F444C1 /* Assets.xcassets */,
-				F45001091E2ACA1500F444C1 /* LaunchScreen.storyboard */,
 				F450010C1E2ACA1500F444C1 /* Info.plist */,
 				F45000FB1E2ACA1500F444C1 /* Supporting Files */,
 			);
@@ -117,6 +114,9 @@
 		F45000FB1E2ACA1500F444C1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F45001091E2ACA1500F444C1 /* LaunchScreen.storyboard */,
+				F45000FE1E2ACA1500F444C1 /* AppDelegate.h */,
+				F45000FF1E2ACA1500F444C1 /* AppDelegate.m */,
 				F45000FC1E2ACA1500F444C1 /* main.m */,
 			);
 			name = "Supporting Files";
